@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**WiseRodx/WiseRodx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# William Serrano 🚀
+### Electronics Engineering Student | Future DevOps Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am **William Serrano**, a student close to finishing my degree in **Electronics Engineering at UNSA**.  
+Although my academic formation comes from engineering, my current professional path is strongly focused on **DevOps**.
+
+I am developing the fundamental skills expected from a **Junior DevOps Engineer**, including:
+- Linux administration
+- Git and GitHub
+- Scripting and automation
+- CI/CD concepts
+- Problem solving
+- Infrastructure mindset
+
+My next step is to continue growing in cloud technologies, especially **Azure Cloud**.
+
+## About Me
+- Final-year Electronics Engineering student at UNSA
+- Focused on starting a career in DevOps
+- Interested in automation, cloud, infrastructure, and continuous improvement
+- Always learning and building new technical skills
+
+## Tech Interests
+`Linux` `Git` `GitHub` `Python` `Bash` `CI/CD` `DevOps` `Azure`
+
+## Objective
+To become a skilled DevOps professional capable of building reliable, scalable, and efficient solutions.
+
+## Motto
+**Learn, build, automate, improve.**
