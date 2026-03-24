@@ -30,10 +30,9 @@ My next step is to continue growing in cloud technologies, especially **Azure Cl
 ## Objective
 To become a skilled DevOps professional capable of building reliable, scalable, and efficient solutions.
 
-## Recent activity
-<!-- START_SECTION: activity-->
-
-<!-- END_SECTION: activity-->
+## Recent Activity
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 ## Motto
 **Learn, build, automate, improve.**
