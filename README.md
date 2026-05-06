@@ -34,10 +34,9 @@ To become a skilled DevOps professional capable of building reliable, scalable, 
 <!--RECENT_ACTIVITY:start-->
 1. 🔱 Forked [WiseRodx/platzi-curso-ai-devs](https://github.com/WiseRodx/platzi-curso-ai-devs) from [platzi/curso-ai-devs](https://github.com/platzi/curso-ai-devs)<br>
 2. 🔱 Forked [WiseRodx/curso-de-docker-fundamentos](https://github.com/WiseRodx/curso-de-docker-fundamentos) from [platzi/curso-de-docker-fundamentos](https://github.com/platzi/curso-de-docker-fundamentos)<br>
-3. ⭐ Starred [DevCaress/guia-entrevistas-de-programacion](https://github.com/DevCaress/guia-entrevistas-de-programacion)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, May 5th, 2026, 2:22:06 AM
+Last Updated: Wednesday, May 6th, 2026, 2:25:17 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ## Motto
